@@ -1,0 +1,6 @@
+{
+  "name": "Movie Anime Hub",
+  "description": "A dark, cinematic movie and anime tracking application featuring user-facing discover dashboards, episode listings, and an administrative control panel for content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
